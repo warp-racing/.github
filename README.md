@@ -1,1 +1,1 @@
-# The official GitHub organisation of the Warp F1 in Schools Team!
+# The .github repo for the warp-racing organisation README.md
